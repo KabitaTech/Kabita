@@ -1,2 +1,2 @@
 # Kabita
-###Hello Everone,I Am kabita 😊
+###Hello Everyone,I Am kabita 😊
