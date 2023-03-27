@@ -1,8 +1,6 @@
 # Kabita
 <h1 align="center">Hello 👋 this is Kabita Yesmin</h1>
 <h3 align="center">I am a student of computer science and engineering and I love to write code and solve new problems</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
